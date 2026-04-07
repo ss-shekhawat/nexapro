@@ -1,5 +1,3 @@
-// 📚 main.jsx - THE ENTRY POINT
-// This is where React gets injected into the DOM
 
 import React from 'react'
 import ReactDOM from 'react-dom/client'
