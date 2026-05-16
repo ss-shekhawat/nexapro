@@ -13,7 +13,7 @@ export default {
         // light: '#EDF2F4',        // Off-white
         // dark: '#414141',         // Dark gray for text
         primary: "#1976D2",
-        secondary: "#1565C0",
+        secondary: "#1E293B",
         dark: "#1E1E1E",
         light: "#FFFFFF",
         accent: "#EDF2F4",
