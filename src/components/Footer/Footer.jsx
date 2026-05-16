@@ -13,7 +13,7 @@ const Footer = () => {
           {/* Company Info */}
           <div>
             <img
-              src="/nexapro-logo.png"
+              src="/nexapro-blue55.png"
               alt="Nexapro Technologies"
               className="h-16 mb-4"
             />
